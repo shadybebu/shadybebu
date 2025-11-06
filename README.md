@@ -7,7 +7,7 @@ I'm a dedicated **Cyber Security Student** with a focus on **Penetration Testing
 ## 🏆 Achievements & Expertise
 
 - **Certified Professional:** Holding the **Junior Penetration Tester eJPT** and **INE Certified Cloud Associate (ICCA)** certifications.
-- **Hands-on Experience:** Currently ranked in the **Top 3% on TryHackMe**, demonstrating practical penetration testing and defense skills.
+- **Hands-on Experience:** Currently ranked in the **Top 2% on TryHackMe**, demonstrating practical penetration testing and defense skills.
 
 
 ## 💻 My Toolbox & Skills
