@@ -16,7 +16,7 @@ I'm a dedicated **Cyber Security Student** with a focus on **Penetration Testing
 | :--- | :--- |
 | **Core Skills** | **Python, Networking, Linux/Bash, Vulnerability Assessment** |
 | **Security Toolbox** | **Metasploit, Wireshark, Nmap, Splunk, Kali Linux** |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, OWASP Top 10 |
+| **Frameworks** | **MITRE ATT&CK, NIST CSF, OWASP Top 10** |
 
 ## 🌱 Currently Exploring
 
